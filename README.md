@@ -9,7 +9,7 @@ This project analyzes public fraud complaint data from the Canadian Anti-Fraud C
 - Analyze age range, gender, and solicitation method patterns
 - Create visual summaries to support risk strategy and fraud intervention
 
-## 🛠Tools & Libraries
+## Tools & Libraries
 - Python: `pandas`, `matplotlib`, `seaborn`, `geopandas`, `plotly`
 - Jupyter Notebook
 - Git & GitHub for version control
